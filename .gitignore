@@ -1,0 +1,9 @@
+.vscode/compileCommands_CryptRaider
+.vscode/compileCommands_Default
+.log
+Binaries/
+Content/
+DerivedDataCache/
+Intermediate/
+Saved/
+UE5/
