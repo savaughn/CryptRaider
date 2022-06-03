@@ -2,6 +2,13 @@
 	"version": "0.2.0",
 	"configurations": [
 		{
+			"name": "debug",
+			"type": "cppvsdbg",
+			"request": "attach",
+			"processName": "UnrealEditor.exe",
+			"visualizerFile": "D:\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+		},
+		{
 			"name": "Launch CryptRaider (Debug)",
 			"request": "launch",
 			"program": "D:\\Unreal Projects\\CryptRaider\\CryptRaider\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
